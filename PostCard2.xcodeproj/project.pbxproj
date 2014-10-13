@@ -13,6 +13,8 @@
 		E4B1DE3A19E2A4B000D632EC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4B1DE3919E2A4B000D632EC /* Images.xcassets */; };
 		E4B1DE3D19E2A4B000D632EC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E4B1DE3B19E2A4B000D632EC /* LaunchScreen.xib */; };
 		E4B1DE4919E2A4B000D632EC /* PostCard2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B1DE4819E2A4B000D632EC /* PostCard2Tests.swift */; };
+		E4B1DE5319E2A51C00D632EC /* tower.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E4B1DE5219E2A51C00D632EC /* tower.jpg */; };
+		E4B1DE5519E2B5D700D632EC /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E4B1DE5419E2B5D700D632EC /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		E4B1DE4219E2A4B000D632EC /* PostCard2Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostCard2Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E4B1DE4719E2A4B000D632EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4B1DE4819E2A4B000D632EC /* PostCard2Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCard2Tests.swift; sourceTree = "<group>"; };
+		E4B1DE5219E2A51C00D632EC /* tower.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tower.jpg; sourceTree = "<group>"; };
+		E4B1DE5419E2B5D700D632EC /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		E4B1DE3019E2A4B000D632EC /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E4B1DE5419E2B5D700D632EC /* AlbertEinsteinStamp.jpg */,
+				E4B1DE5219E2A51C00D632EC /* tower.jpg */,
 				E4B1DE3119E2A4B000D632EC /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4B1DE3819E2A4B000D632EC /* Main.storyboard in Resources */,
+				E4B1DE5319E2A51C00D632EC /* tower.jpg in Resources */,
+				E4B1DE5519E2B5D700D632EC /* AlbertEinsteinStamp.jpg in Resources */,
 				E4B1DE3D19E2A4B000D632EC /* LaunchScreen.xib in Resources */,
 				E4B1DE3A19E2A4B000D632EC /* Images.xcassets in Resources */,
 			);
